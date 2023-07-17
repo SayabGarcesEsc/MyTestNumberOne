@@ -1,6 +1,6 @@
 public class ClassOutput{
-	public name;
-	public age;
-	public hobbies;
+	public String name;
+	public String age;
+	public String hobbies;
 
 }
